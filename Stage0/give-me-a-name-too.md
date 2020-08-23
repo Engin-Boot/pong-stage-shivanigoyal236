@@ -3,15 +3,17 @@
 ## Feature
 
 What part of the game does this module deliver?
+interface of the game
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: -start the game 
 
-  Given -give-initial-values-and-conditions
+  Given a interface which has a option start game 
 
-  When -event-happens
+  When we click on start game option 
 
-  Then -module-does-this
+  Then we see a screen with racket and ball
 
 ### -add-scenario-if-needed
+ 
