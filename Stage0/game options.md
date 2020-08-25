@@ -18,11 +18,11 @@ user have a phone
 
   Then he can set level from easy,medium,hard for game
 
-### Scenario: how to mute or unmute game
+### Scenario: how to mute sound
 
 given user start the game he sees the option of sound
 when he click on that option
-then he can mute or unmute the game
+then he can mute the sound
 
 ### Scenario: how to exit the game
 
