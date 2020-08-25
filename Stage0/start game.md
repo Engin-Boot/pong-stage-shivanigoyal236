@@ -1,13 +1,13 @@
-# start game
+# start game app
 
 ## Feature
 
-start of the game
+start of the game app
 
 ## Acceptance Criteria
+user should have a phone
+### Scenario: -start the game app
 
-### Scenario: -start the game
-
-  Given a interface which has a option start game
-  When we click on start game option
-  Then we see many options
+  Given a user start the game app
+  When he click on  game app
+  Then he sees  many options
