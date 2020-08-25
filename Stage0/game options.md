@@ -2,8 +2,9 @@
 
 ## Feature
 
-it has all the options like select level,sound,exit,change appearance,help
-player option
+it has all the options like select level,sound,exit
+
+change appearance,help,player option
 
 ## Acceptance Criteria
 
