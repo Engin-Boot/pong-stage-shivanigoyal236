@@ -40,7 +40,7 @@ then he can set appearance
 ### Scenario: how to take help for game
 
 given user start the game he sees a option help
-when he click on that option 
+when he click on that option
 then he can see help
 
 ### Scenario: how to select player
@@ -49,4 +49,3 @@ given user start the game and he sees a option select player
 where he can select either computer or any other user
 when he select that option
 then he sees a screen with racket and ball
-
