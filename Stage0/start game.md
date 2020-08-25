@@ -5,7 +5,9 @@
 start of the game app
 
 ## Acceptance Criteria
+
 user should have a phone
+
 ### Scenario: -start the game app
 
   Given a user start the game app
