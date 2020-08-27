@@ -10,7 +10,7 @@ game starts.
 ## Movement Initiation
 
 game starts and the ball starts moving then collusion checker
-checks all the collusions
+checks all the collusion
 
 ## One score
 
