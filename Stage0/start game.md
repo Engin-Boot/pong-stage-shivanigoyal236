@@ -2,14 +2,14 @@
 
 ## Feature
 
-start of the game app
+start of the game 
 
 ## Acceptance Criteria
 
-user should have a phone
+user should have a active device like phone/pc 
 
 ### Scenario: -start the game app
 
-  Given a user start the game app
-  When he click on  game app
+  Given a user having a active device 
+  When he start the game
   Then he sees  many options
