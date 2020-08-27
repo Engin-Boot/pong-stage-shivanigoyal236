@@ -1,4 +1,4 @@
-# game options
+# game menu
 
 ## Feature
 
@@ -8,21 +8,21 @@ change appearance,help,player option
 
 ## Acceptance Criteria
 
-user have a phone
+user should have a active device like a phone or pc
 
 ### Scenario: how to select level
 
-  Given user start the game he sees the option of level
+  Given user start the game he sees the option of level in menu
 
   When he click on that option
 
   Then he can set level from easy,medium,hard for game
-
+ 
 ### Scenario: how to mute sound
 
 given user start the game he sees the option of sound
 when he click on that option
-then he can mute the sound
+then he can mute or not the sound
 
 ### Scenario: how to exit the game
 
