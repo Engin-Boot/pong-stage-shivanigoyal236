@@ -1,1 +1,23 @@
+# game options
 
+## Feature
+
+this checks all the collusion in game.
+
+### Scenario:when ball hits the horizontal boundary
+
+given: players are playing the game
+when ball hits the horizontal boundary
+then change the direction of the ball
+
+### Scenario: when ball hits the wall behind the player
+
+given:players are playing the game
+when ball hits the wall behind the player
+then increase the score of other player
+
+### Scenario: when ball hits the racket
+
+given:players are playing the game
+when ball hits the racket
+then change the direction of the ball
