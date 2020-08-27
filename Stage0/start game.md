@@ -6,7 +6,7 @@ start of the game
 
 ## Acceptance Criteria
 
-user should have a active device like phone/pc 
+user should have a active device like phone/pc
 
 ### Scenario: -start the game app
 
