@@ -2,7 +2,7 @@
 
 ## Feature
 
-start of the game
+it start the game
 
 ## Acceptance Criteria
 
