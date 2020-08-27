@@ -3,7 +3,6 @@
 ## Feature
 
 it has all the options like select level,sound,exit
-
 change appearance,help,player option
 
 ## Acceptance Criteria
@@ -17,7 +16,7 @@ user should have a active device like a phone or pc
   When he click on that option
 
   Then he can set level from easy,medium,hard for game
- 
+  
 ### Scenario: how to mute sound
 
 given user start the game he sees the option of sound
