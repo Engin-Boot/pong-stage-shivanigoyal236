@@ -6,11 +6,11 @@ pong game starts and open the menu of game
 where we see many option like to choose level,to exit the game
 ,to select player when user select options according to his need then
 game starts.
+
 ## Movement Initiation
 
 game starts and the ball starts moving then collusion checker
 checks all the collusions
-
 
 ## One score
 
